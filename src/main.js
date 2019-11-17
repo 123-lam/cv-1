@@ -1,8 +1,8 @@
 let html = document.querySelector("#html");
 let style = document.querySelector("#style");
 //生成一段代码
-let string = `/* 你好，我是风一样的男子  
- * 接下来我要演示一下我的前段功底
+let string = `/* 你好，我是风一样的男子,小蓝蓝，我励志要成为一名超级优秀的程序猿。  
+ * 接下来我要演示一下我的前端功底
  * 首先我要准备一个div
  */
 
